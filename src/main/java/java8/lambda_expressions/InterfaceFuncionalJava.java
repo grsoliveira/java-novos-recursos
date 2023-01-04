@@ -16,7 +16,7 @@ public class InterfaceFuncionalJava {
         t1.start();
 
         /**
-         * Utilizando a interface funcional definida pelo próprio Java
+         * Utilizando a interface funcional definida pelo próprio Java (sem argumentos)
          */
         Thread t2 = new Thread( () -> System.out.println("Segunda thread em execução"));
         t2.start();
