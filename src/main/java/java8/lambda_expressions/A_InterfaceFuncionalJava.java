@@ -1,6 +1,6 @@
 package java8.lambda_expressions;
 
-public class InterfaceFuncionalJava {
+public class A_InterfaceFuncionalJava {
 
     public static void main(String[] args) {
 

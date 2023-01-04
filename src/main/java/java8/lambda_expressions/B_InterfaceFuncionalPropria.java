@@ -4,7 +4,7 @@ interface Figura {
     void desenha();
 }
 
-public class InterfaceFuncionalPropria {
+public class B_InterfaceFuncionalPropria {
 
     public static void main(String[] args) {
 
