@@ -1,4 +1,4 @@
-package java8.method_references;
+package java8.b_method_references;
 
 interface D_Figura2D{
     D_Retangulo desenha(Double largura, Double altura);

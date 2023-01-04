@@ -1,4 +1,4 @@
-package java8.method_references;
+package java8.b_method_references;
 
 interface A_Figura2D{
     void desenha(Double largura, Double altura);

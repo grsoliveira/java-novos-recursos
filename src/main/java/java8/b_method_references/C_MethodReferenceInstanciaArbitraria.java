@@ -1,4 +1,4 @@
-package java8.method_references;
+package java8.b_method_references;
 
 import java.util.ArrayList;
 import java.util.List;
